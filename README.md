@@ -67,7 +67,7 @@ El sistema será consumido por un frontend desarrollado en la tecnología que el
 
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
-- [![][Springboot][Springboot.js]][Springboot-url]
+- [![Springboot][Springboot.js]][Springboot-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
