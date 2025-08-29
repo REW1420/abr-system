@@ -67,7 +67,7 @@ El sistema será consumido por un frontend desarrollado en la tecnología que el
 
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
-- [![Springboot][Springboot]][Springboot-url]
+- [![][Springboot][Springboot.js]][Springboot-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,3 +213,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Springboot-url]: https://spring.io/projects/spring-boot
+[Springboot.js]: https://img.shields.io/badge/springboot-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
