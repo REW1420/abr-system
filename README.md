@@ -5,16 +5,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/REW1420/abr-system">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.udb.edu.sv/udb_files/content_resource/es//Logo_8.5.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">sistema de gestión de boletos aéreos</h3>
+<h3 align="center">Sistema de gestión de boletos aéreos</h3>
 
   <p align="center">
   Sistema integral para la gestión de boletos aéreos que permite a los usuarios consultar, reservar, pagar y administrar sus vuelos de manera sencilla.
@@ -27,32 +26,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Tabla de contenido</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
-      <ul>
-        <li><a href="#built-with">Herramientas</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Como empezar</a>
-      <ul>
-        <li><a href="#prerequisites">Requisitos</a></li>
-        <li><a href="#installation">Instalación</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Uso</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribuciones</a></li>
-    <li><a href="#license">Licencia</a></li>
-    <li><a href="#contact">Contacto</a></li>
-    
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## Sobre el proyecto
@@ -61,62 +34,25 @@ El proyecto consiste en el desarrollo del backend de un sistema de gestión de b
 
 El sistema será consumido por un frontend desarrollado en la tecnología que el estudiante elija y deberá aplicar buenas prácticas de diseño, principios de arquitectura orientada a servicios (SOA) y una adecuada gestión de datos para garantizar la consistencia, integridad y confiabilidad de la información.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
 - [![Springboot][Springboot.js]][Springboot-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
-## Getting Started
+### Instalación
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clona el repositorio
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/REW1420/abr-system
    ```
-3. Install NPM packages
+2. Instala las dependencias
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+   (EN DESARROLLO)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,65 +60,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+(EN DESARROLLO)
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Desarrolladores:
 
-Project Link: [https://github.com/REW1420/abr-system/](https://github.com/REW1420/abr-system/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Repositorio: [https://github.com/REW1420/abr-system/](https://github.com/REW1420/abr-system/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
