@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/REW1420/abr-system">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -170,7 +170,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/REW1420/abr-system/](https://github.com/REW1420/abr-system/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,16 +187,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/REW1420/abr-system.svg?style=for-the-badge
+[contributors-url]: https://github.com/REW1420/abr-system/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/REW1420/abr-system.svg?style=for-the-badge
+[forks-url]: https://github.com/REW1420/abr-system/network/members
+[stars-shield]: https://img.shields.io/github/stars/REW1420/abr-system.svg?style=for-the-badge
+[stars-url]: https://github.com/REW1420/abr-system/stargazers
+[issues-shield]: https://img.shields.io/github/issues/REW1420/abr-system.svg?style=for-the-badge
+[issues-url]: https://github.com/REW1420/abr-system/issues
+[license-shield]: https://img.shields.io/github/license/REW1420/abr-system.svg?style=for-the-badge
+[license-url]: https://github.com/REW1420/abr-system/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -213,4 +213,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Springboot-url]: https://spring.io/projects/spring-boot
-[Springboot.js]: https://img.shields.io/badge/springboot-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Springboot.js]: https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
